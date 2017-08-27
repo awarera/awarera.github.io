@@ -1,8 +1,8 @@
 # Simple Meeting Room Booking App 
-======
-## Demo the App on an ANDROID device (it wont display properly if viewed on iOS or PC/laptop) with the following URL: awarera.github.io* 
 
-#### *dont add any 'www' prefixes to the url
+
+#### Demo the App on an ANDROID device (it will render differently if viewed on an iOS device or PC/laptop) with the following URL: awarera.github.io
+
 
 ## Screenshots of the app
 
